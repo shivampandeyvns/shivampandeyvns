@@ -2,7 +2,7 @@
 # Hi, I'm Shivam ! 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shivampandeyvns)
-![Repos Badge](https://badges.pufler.dev/repos/shivampandeyvns)
+[![Repos Badge](https://badges.pufler.dev/repos/shivampandeyvns)](https://github.com/shivampandeyvns?tab=repositories)
 
 I am an AI enthusiast, who loves to play with data and latest state of the art Machine Learning and Deep Learning algorithms.
 I am currently pursuing my undegrad degree in Computer Science from SRM, Chennai.
