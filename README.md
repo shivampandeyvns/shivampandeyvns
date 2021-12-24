@@ -43,6 +43,8 @@ Feel free to check out my project repositories.I love to collaborate with people
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampandeyvns&theme=blue-green)
 
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivampandeyvns)
+
 ## Project Repository Link
 [Brain Tumor Classifier App](https://github.com/shivampandeyvns/DMProject)  
 [Car Price Classifier App](https://github.com/shivampandeyvns/Car-price-app)  
